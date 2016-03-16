@@ -133,3 +133,5 @@ Foreword
 	It is plain indeed that in spite of later estrangement Hobbits are relatives of ours: far nearer to us than Elves, or even than Dwarves. Of old they spoke the language of Men, after their own fashion, and liked and disliked much the same things as Men did. But what exactly our relationship is can no longer be discovered. The beginning of Hobbits lies far back in the Elder Days that are now lost and forgotten. Only the Elves still preserve any records of that vanished time, and their traditions are concerned almost entirely with their own history.
 
 /* test text added on 20160311 */
+
+/* added on 20160316 */
